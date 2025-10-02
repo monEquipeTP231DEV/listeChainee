@@ -13,5 +13,5 @@
         COMPILATION
     Pour compiler le programme utilisez "gcc"
     par exemple pour le fichier lire_supprimer_elt.c
-    gcc lire_supprimer_elt.c -o liste
-    ./liste
+    gcc lire_supprimer_elt.c -o lire_supprimer_elt
+    ./lire_supprimer_elt
